@@ -1,0 +1,23 @@
+.div {
+  text-align: center;
+  padding-top: 100px;
+}
+.h1 {
+  font-size: 4em;
+}
+.p {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.span1 {
+  font-size: 60px;
+}
+
+.span2 {
+  font-size: 20px;
+  margin-top: auto;
+  margin-bottom: 2px;
+}
